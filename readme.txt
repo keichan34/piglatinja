@@ -1,4 +1,4 @@
-=== Pig Latin Ja ===
+=== Pig Latin for Japanese ===
 Contributors: keita_kobayashi, nbachiyski
 Tags: piglatin, i18n, translation, translations, plugin, theme, plugins, themes
 Requires at least: 2.7
@@ -19,7 +19,7 @@ Based on [Pig Latin](http://wordpress.org/plugins/piglatin/)
 
 == License ==
 
-Pig Latin Ja
+Pig Latin for Japanese
 Copyright (C) 2013 Keitaroh Kobayashi
 
 This program is free software: you can redistribute it and/or modify
