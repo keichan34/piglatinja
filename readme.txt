@@ -3,7 +3,7 @@ Contributors: keita_kobayashi, nbachiyski
 Tags: piglatin, i18n, translation, translations, plugin, theme, plugins, themes
 Requires at least: 2.7
 Tested up to: 3.7.1
-Stable tag: 0.1
+Stable tag: trunk
 License: GPLv3
 Donate link: bitcoin://1LctrAL7B3mF2FyjDAyUXftkdwnFhdubXq
 
