@@ -1,11 +1,11 @@
 === Pig Latin for Japanese ===
 Contributors: keita_kobayashi, nbachiyski
-Tags: piglatin, i18n, translation, translations, plugin, theme, plugins, themes
+Donate link: http://kkob.us/btc/1LctrAL7B3mF2FyjDAyUXftkdwnFhdubXq
+Tags: piglatin, i18n, translation, translations, plugin, theme, plugins, themes, japanese
 Requires at least: 2.7
-Tested up to: 3.7.1
+Tested up to: 3.8
 Stable tag: trunk
 License: GPLv3
-Donate link: bitcoin://1LctrAL7B3mF2FyjDAyUXftkdwnFhdubXq
 
 Overrides the current language and translates all messages into nonsensical Japanese characters.
 
@@ -35,7 +35,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+== Screenshots ==
+
+1. The admin screen
+
 == Changelog ==
+
+= 0.2 =
+* Verified compatibility with WordPress 3.8
 
 = 0.1 =
 * Initial release
@@ -44,6 +51,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 This section describes how to install the plugin and get it working.
 
-1. Unzip `piglatinja-x.x.zip`
+1. Unzip `pig-latin-for-japanese-x.x.zip`
 1. Upload the `piglatin` directory (not its contents, the whole directory) to `/wp-content/plugins/`
 1. Activate the plugin through the `Plugins` menu in WordPress
