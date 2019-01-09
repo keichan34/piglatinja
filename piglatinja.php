@@ -1,11 +1,12 @@
 <?php
 /**
-  * Plugin Name:	Pig Latin for Japanese
+  * Plugin Name: Pig Latin for Japanese
   * Plugin URI: https://github.com/keichan34/piglatinja
   * Description: Overrides the current language and translates all messages into nonsensical Japanese characters. This way you can easily see what strings might look like in a full-width character locale.
-  * Version: 0.2
+  * Version: 0.3
   * Author: Keitaroh Kobayashi
-  * Author URI: http://keita.flagship.cc/
+  * Author URI: http://keita.blog/
+  * Text Domain: pig-latin-for-japanese
   */
 
 class PigLatinJa {
